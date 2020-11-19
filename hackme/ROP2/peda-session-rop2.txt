@@ -1,0 +1,4 @@
+break __libc_start_main@plt
+break alarm@plt
+break syscall@plt
+
